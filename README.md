@@ -4,7 +4,7 @@ Welcome to the repository for my Web Tic-Tac-Toe project! This is a simple imple
 
 ## Demo
 
-You can play the game by visiting the [demo website](https://ankitmalik84.github.io/web-tic-tac-toe-/).
+You can play the game by visiting the [demo website](https://ankitmalik84.github.io/Tic-Tac-Toe-/).
 
 ## Features
 
@@ -18,7 +18,7 @@ You can play the game by visiting the [demo website](https://ankitmalik84.github
 To get started with the game, simply clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/yourusername/web-tic-tac-toe.git
+git clone https://github.com/yourusername/Tic-Tac-Toe-.git
 ```
 
 Once you have the code, you can run the game by opening the `index.html` file in your web browser.
@@ -32,7 +32,7 @@ This project is deployed on GitHub Pages. To deploy your own version of the game
 3. Commit and push your changes to your forked repository.
 4. Enable GitHub Pages for your forked repository by going to the **Settings** tab and selecting **Pages** from the left sidebar.
 5. Choose the branch you want to deploy (usually the `main` branch) and click **Save**.
-6. Your game should now be deployed and accessible at `https://ankitmalik84.github.io/web-tic-tac-toe-/`.
+6. Your game should now be deployed and accessible at `https://ankitmalik84.github.io/Tic-Tac-Toe-/`.
 
 ## Contributing
 
